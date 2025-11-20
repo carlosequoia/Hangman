@@ -7,3 +7,5 @@ Referring to the .java, the hangman is written to be simplistic, objective-orien
 This prior version of Hangman is written using Java as the main programming language. Parameters and fundamentals used are "basic". This includes `print`, `println`, `if`, `else`, etc.
 
 Committed changes on 5:56 PM, November 11, 2025.
+
+For the latest change, refer to branch `improved-hangman` named `hangmanvc2.java`.
